@@ -16,6 +16,8 @@
 		DE172D372818345800FE059A /* Notification_Center_AppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE172D362818345800FE059A /* Notification_Center_AppTests.swift */; };
 		DE172D412818345800FE059A /* Notification_Center_AppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE172D402818345800FE059A /* Notification_Center_AppUITests.swift */; };
 		DE172D432818345800FE059A /* Notification_Center_AppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE172D422818345800FE059A /* Notification_Center_AppUITestsLaunchTests.swift */; };
+		DE172D502818348200FE059A /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE172D4F2818348200FE059A /* ViewController2.swift */; };
+		DE172D522818351100FE059A /* Kisiler.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE172D512818351100FE059A /* Kisiler.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		DE172D3C2818345800FE059A /* Notification Center AppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Notification Center AppUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DE172D402818345800FE059A /* Notification_Center_AppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Notification_Center_AppUITests.swift; sourceTree = "<group>"; };
 		DE172D422818345800FE059A /* Notification_Center_AppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Notification_Center_AppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		DE172D4F2818348200FE059A /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
+		DE172D512818351100FE059A /* Kisiler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Kisiler.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,10 +106,12 @@
 				DE172D1F2818345500FE059A /* AppDelegate.swift */,
 				DE172D212818345500FE059A /* SceneDelegate.swift */,
 				DE172D232818345500FE059A /* ViewController.swift */,
+				DE172D4F2818348200FE059A /* ViewController2.swift */,
 				DE172D252818345500FE059A /* Main.storyboard */,
 				DE172D282818345800FE059A /* Assets.xcassets */,
 				DE172D2A2818345800FE059A /* LaunchScreen.storyboard */,
 				DE172D2D2818345800FE059A /* Info.plist */,
+				DE172D512818351100FE059A /* Kisiler.swift */,
 			);
 			path = "Notification Center App";
 			sourceTree = "<group>";
@@ -259,8 +265,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				DE172D242818345500FE059A /* ViewController.swift in Sources */,
+				DE172D502818348200FE059A /* ViewController2.swift in Sources */,
 				DE172D202818345500FE059A /* AppDelegate.swift in Sources */,
 				DE172D222818345500FE059A /* SceneDelegate.swift in Sources */,
+				DE172D522818351100FE059A /* Kisiler.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
